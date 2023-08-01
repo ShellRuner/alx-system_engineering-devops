@@ -16,4 +16,7 @@
 ***Task5 :5.I love numbers
      Display current directory contents.Long format, with user and  group IDs displayed numerically and hidden files (tarting with .).
 
+***Task6 :6.Welcome
+    Create a scripte that creates a directory named my_first_directory in the /tmp/ directory.
+
 
