@@ -22,4 +22,7 @@
 ***Task7 :7.Betty in my first directory
    move the file betty  from /tmp/ to /tmp/my_first_directory.
 
+***Task8 :8.Bye bye Betty
+   Delete the file betty
+
 
