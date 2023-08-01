@@ -10,4 +10,7 @@
 ***Task3 :3.The long format
     Write a script that displays current directory contents in a long format
 
+***Task4 :4.Hidden files
+     Display urrent directory contents ,including hidden files (starting with .).Use the long format.
+
 
