@@ -13,4 +13,7 @@
 ***Task4 :4.Hidden files
      Display urrent directory contents ,including hidden files (starting with .).Use the long format.
 
+***Task5 :5.I love numbers
+     Display current directory contents.Long format, with user and  group IDs displayed numerically and hidden files (tarting with .).
+
 
