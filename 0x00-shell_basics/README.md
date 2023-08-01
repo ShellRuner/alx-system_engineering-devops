@@ -7,4 +7,7 @@
 ***Task2 :2.THere is no place like home
      Write a script that chanes the working directory to the user's home directory.Without any variables
 
+***Task3 :3.The long format
+    Write a script that displays current directory contents in a long format
+
 
