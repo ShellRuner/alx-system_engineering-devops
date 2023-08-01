@@ -10,4 +10,6 @@
 
 ***Task5 :5.Execute
 
+***Task6 :6. Multiple permissions
+
 
