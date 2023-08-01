@@ -27,3 +27,8 @@
 
 ***Task9 :9.Bye bye My first directory
    Delete the directory my_first_directory that is in the /tmp directory
+
+***Task10 :10.Back to the future
+  Write a scrip that changes the working directory to the previous one.
+
+
