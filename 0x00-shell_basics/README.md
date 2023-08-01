@@ -19,4 +19,7 @@
 ***Task6 :6.Welcome
     Create a scripte that creates a directory named my_first_directory in the /tmp/ directory.
 
+***Task7 :7.Betty in my first directory
+   move the file betty  from /tmp/ to /tmp/my_first_directory.
+
 
