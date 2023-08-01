@@ -12,4 +12,6 @@
 
 ***Task6 :6. Multiple permissions
 
+***Task7 :7. Everybody!
+
 
